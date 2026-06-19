@@ -61,14 +61,6 @@ An interactive Power BI dashboard designed to analyze marketing campaign perform
 
 ---
 
-## 🖥 Advanced Analytics View
-
-<p align="center">
-  <img src="dashboard2.png" width="100%">
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 - Power BI
